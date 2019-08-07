@@ -5,6 +5,7 @@
 }
 body{
 word-break:keep-all;
+overflow-x:hidden;
 }
 a{
     color:inherit;
