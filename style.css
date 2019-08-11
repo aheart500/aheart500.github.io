@@ -17,9 +17,10 @@ a{
     border-top:5px solid #76c38f;
 }
 .main-content .header{
-    background-image: url(images/ff.jpg);
+    background-image: url(images/Back.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     position: relative;
 }
 .main-content .header .header-container{
@@ -149,6 +150,7 @@ a{
     background-image: url(images/dd.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 .main-content .main-container {
     width:90%;
